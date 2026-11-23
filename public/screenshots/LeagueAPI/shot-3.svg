@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2160" viewBox="0 0 1080 2160">
+  <defs>
+    <pattern id="stripes" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="2" height="28" fill="#ffffff" fill-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="2160" fill="#23262d"/>
+  <rect width="1080" height="2160" fill="url(#stripes)"/>
+  <text x="540" y="1070" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="64" fill="#e39a3c">Library</text>
+  <text x="540" y="1154" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="34" fill="#8a8f99">placeholder · 1080 × 2160</text>
+</svg>

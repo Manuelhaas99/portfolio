@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <pattern id="stripes" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="2" height="28" fill="#ffffff" fill-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="#23262d"/>
+  <rect width="1600" height="1000" fill="url(#stripes)"/>
+  <text x="800" y="490" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="60" fill="#e39a3c">Course player</text>
+  <text x="800" y="570" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="30" fill="#8a8f99">placeholder · 1600 × 1000</text>
+</svg>
