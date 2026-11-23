@@ -105,8 +105,8 @@ export const footerLinks: FooterLink[] = [
 ];
 
 export const certification: Certification = {
-  title: "Full Stack web dev",
-  meta: "Codo a Codo · 2023",
+  title: "Introduction to Web Development: HTML and CSS",
+  meta: "Google Activate",
 };
 
 /** Rendered in this order; the copy for each lives under `experience.jobs`. */
